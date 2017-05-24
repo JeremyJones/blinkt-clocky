@@ -1,7 +1,7 @@
 # blinkt-clocky
 An eight-light clock for Raspberry Pi using the Pimoroni Blinkt!
 
-
+```
 Help on module clocky:
 
 NAME
@@ -43,5 +43,4 @@ FUNCTIONS
 
 DATA
     NUM_PIXELS = 8
-
-
+```
